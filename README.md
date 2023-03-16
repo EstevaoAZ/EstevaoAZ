@@ -1,6 +1,6 @@
 # About-me
 Information about me.
-- Hi! I'm **@EstevaoAZ**, I'm a *19 year old Computer Science student from Brazil;*
+- Hi! I'm **@EstevaoAZ**, a *20 year old Computer Science student from Brazil;*
 - I look for working remotely for a foreign company;
 - I speak two languages: Portuguese (my mother tongue) and English (fluent, learned it by myself);
 - I am very creative and passionate about IT stuff, I've been in love with it since I was a little kid :);
