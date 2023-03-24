@@ -23,17 +23,11 @@
 <h2>Social medias 📢 </h2>
 
 
-/*<a href="https://www.linkedin.com/in/gabrielnhaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/gabnhaia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>*/
+/*<a href="https://www.linkedin.com/in/estevaoaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/dev.aztex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>*/
  
  ##
  
 <!-- Workspace -->
 
-
-<h2>My Workspace 🖥️</h2>
-
-<a><img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-
-<a><img src="https://img.shields.io/badge/AMD-Ryzen_5_4650G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-##
+<p>Dont hesitate to contact me! I'm always available!</p>
