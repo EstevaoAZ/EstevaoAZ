@@ -1,10 +1,12 @@
 ###  Welcome!!
 
-<h2> I'm Estevão! 👋</h2>
+<h2> I'm Estevão! 👋ヽ༼ຈل͜ຈ༽ﾉ</h2>
 
-- 👨‍💻 I'm 20 years old.
-- 🔭 I’m currently working at Grupo Abrascort as a Junior Fullstack Engineer.
-- 🌱 I’m currently graduating Computer Science.
+- 💻 I am  a 20 years old CS student from Brazil.
+- 💻 I’m currently working at Grupo Abrascort as a Junior Fullstack Engineer.
+- 🎓 I’m currently graduating Computer Science.
+
+##
 
 <h2>Interests & Learnings 📖</h2>
 <div style="display: inline_block"><br>
@@ -15,7 +17,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </div>
 
-### My Stats
+<h2>My Stats</h2>
 
 <div>
   <a href="https://github.com/nesantana">
@@ -32,4 +34,4 @@
  
  ##
  
-<p> 🌱 Dont hesitate to contact me! I'm always available!</p>
+<h2> 📞 Dont hesitate to contact me! I'm always available!</h2>
