@@ -6,7 +6,6 @@
 - 🔭 I’m currently working at Grupo Abrascort as a Junior Fullstack Engineer.
 - 🌱 I’m currently graduating Computer Science.
 
-##
 <h2>Interests & Learnings 📖</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
