@@ -2,8 +2,6 @@
 
 <h2> I'm Estevão! 👋</h2>
 
-##
-
 - 👨‍💻 I'm 20 years old.
 - 🔭 I’m currently working at Grupo Abrascort as a Junior Fullstack Engineer.
 - 🌱 I’m currently graduating Computer Science.
@@ -18,16 +16,6 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </div>
 
-<!-- Social medias -->
-
-<h2>Social medias 📢 </h2>
-
-
-/*<a href="https://www.linkedin.com/in/estev%C3%A3o-azevedo-715a91221/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/dev.aztex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>*/
- 
- ##
- 
 ### My Stats
 
 <div>
@@ -37,4 +25,12 @@
   </a>
 </div>
 
-<p>Dont hesitate to contact me! I'm always available!</p>
+<h2>Social media 📢 </h2>
+
+
+/*<a href="https://www.linkedin.com/in/estev%C3%A3o-azevedo-715a91221/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/dev.aztex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>*/
+ 
+ ##
+ 
+<p> 🌱 Dont hesitate to contact me! I'm always available!</p>
