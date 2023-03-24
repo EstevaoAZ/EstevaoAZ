@@ -1,11 +1,39 @@
-# About-me
-Information about me.
-- Hi! I'm **@EstevaoAZ**, a *20 year old Computer Science student from Brazil;*
-- I look for working remotely for a foreign company;
-- I speak two languages: Portuguese (my mother tongue) and English (fluent, learned it by myself);
-- I am very creative and passionate about IT stuff, I've been in love with it since I was a little kid :);
-- I like heavy metal and some jazz and classical music;
-- I'm a die-hard Lord Of The Rings fan;
-- I'm in college, my course is called "análise e desenvolvimento de sistemas", which kinda translates to "software engineering", but it's just normal Computer Science (I'll become a software engineer anyways);
-- I'm currently learning and studying React JS, but I'm also improving my technical skills in HTML, CSS, JavaScript and GIT . I look forward to becoming a front-end developer;
-- That's it! Thanks for visiting my profile and feel free to contact me! Have a nice day!
+###  Welcome!!
+
+<h2> I'm Estevão! 👋</h2>
+
+##
+
+- 👨‍💻 I'm 20 years old.
+- 🔭 I’m currently working at Grupo Abrascort as a Junior Fullstack Engineer.
+- 🌱 I’m currently graduating Computer Science.
+
+##
+<h2>Interests & Learnings 📖</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+</div>
+
+<!-- Social medias -->
+
+<h2>Social medias 📢 </h2>
+
+
+/*<a href="https://www.linkedin.com/in/gabrielnhaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/gabnhaia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>*/
+ 
+ ##
+ 
+<!-- Workspace -->
+
+
+<h2>My Workspace 🖥️</h2>
+
+<a><img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+
+<a><img src="https://img.shields.io/badge/AMD-Ryzen_5_4650G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+##
