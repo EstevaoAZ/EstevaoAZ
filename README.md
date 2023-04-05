@@ -2,9 +2,9 @@
 
 <h2> I'm Estevão! ヽ༼ຈل͜ຈ༽ﾉ</h2>
 
-- 💻  I'm a 20 year old CS student from Brazil.
+- 💻  20 year old CS student from Brazil.
 - 💻  I'm currently working at Grupo Abrascort as a Junior Fullstack Engineer.
-- 🎓  I'm currently graduating Computer Science.
+- 🎓  Computer Science.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
