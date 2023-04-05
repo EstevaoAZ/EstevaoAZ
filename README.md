@@ -2,7 +2,7 @@
 
 <h2> I'm Estevão! ヽ༼ຈل͜ຈ༽ﾉ</h2>
 
-- 💻  20 year old CS student from Brazil.
+- 💻  20 year old developer and tech enthusiast from Brazil.
 - 💻  I'm currently working at Grupo Abrascort as a Junior Fullstack Engineer.
 - 🎓  Computer Science.
 
