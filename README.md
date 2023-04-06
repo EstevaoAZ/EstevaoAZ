@@ -23,8 +23,6 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/FragaInDev/FragaInDev/blob/output/github-contribution-grid-snake.svg)
-
 <h2>Social media 📢 </h2>
 
 
@@ -32,3 +30,7 @@
  <a href="https://www.instagram.com/dev.aztex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>*/
  
 <p> 📞 Dont hesitate to contact me! I'm always available! </p>
+
+
+![Snake animation](https://github.com/FragaInDev/FragaInDev/blob/output/github-contribution-grid-snake.svg)
+
