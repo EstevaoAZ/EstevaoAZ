@@ -23,6 +23,8 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/FragaInDev/FragaInDev/blob/output/github-contribution-grid-snake.svg)
+
 <h2>Social media 📢 </h2>
 
 
