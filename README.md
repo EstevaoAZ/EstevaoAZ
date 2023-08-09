@@ -13,8 +13,6 @@
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
-<h2>My Stats 📊 </h2>
-
 <div>
   <a href="https://github.com/estevaoaz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
