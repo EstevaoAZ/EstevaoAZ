@@ -1,10 +1,6 @@
 ###  Welcome!!
 
 <h2> I'm Estevão! ヽ༼ຈل͜ຈ༽ﾉ</h2>
-
-- 💻  20 year old developer and tech enthusiast from Brazil.
-- 💻  I currently work at Grupo Abrascort as a Fullstack Software Developer.
-- 🎓  Computer Science.
 <div>
   <a href="https://github.com/estevaoaz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
