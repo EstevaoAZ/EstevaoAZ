@@ -13,4 +13,3 @@
   </div>
 </div>
 <a href="https://www.linkedin.com/in/estev%C3%A3o-azevedo-715a91221/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<p> 📞 Please do not hesitate to contact me! </p>
