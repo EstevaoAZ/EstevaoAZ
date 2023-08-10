@@ -8,7 +8,7 @@
   <div style="display: inline_block">
     <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-    <img align="center" alt="Laravel" height="150" width="150" src="https://avatars.githubusercontent.com/u/958072?s=48&v=4">
+    <img align="center" alt="Laravel" height="40" width="40" src="https://avatars.githubusercontent.com/u/958072?s=48&v=4">
     <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   </div>
 </div>
