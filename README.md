@@ -2,7 +2,7 @@
 
 <h2> I'm Estevão! ヽ༼ຈل͜ຈ༽ﾉ</h2>
 <div>
-  <p>- 20 year old fullstack developer</p>
+  - 20 year old fullstack developer
   <a href="https://github.com/estevaoaz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
   </a>
