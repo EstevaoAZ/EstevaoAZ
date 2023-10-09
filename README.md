@@ -1,6 +1,6 @@
 ###  Welcome!!
 
-<h2> I'm Estevão! ヽ༼ຈل͜ຈ༽ﾉ</h2>
+<h2> I'm Estevão! (͡ ͡° ͜ つ ͡͡°)</h2>
 <div>
   <a href="https://github.com/estevaoaz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
