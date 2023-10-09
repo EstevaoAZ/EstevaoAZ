@@ -20,4 +20,4 @@
 
 <hr>
 
-![Snake animation](https://github.com/estevaoaz/estevaoaz/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg)  
