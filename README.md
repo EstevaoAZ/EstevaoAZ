@@ -6,6 +6,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
+<div>
+  <a href="https://github.com/nesantana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 <br>
 <div style="display: inline_block">
     <!-- <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> -->
