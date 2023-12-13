@@ -7,8 +7,7 @@
   </a>
 </div>
 <div>
-  <a href="https://github.com/nesantana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/estevaoaz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
