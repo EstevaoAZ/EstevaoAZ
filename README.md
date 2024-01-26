@@ -10,7 +10,7 @@
 <br>
 <div style="display: flex; align-items: center; justify-content: space-evenly">
     <img align="center" alt="Spring Boot" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png">
-    <img align="center" alt="JAVA" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="max-width: 100%;">
+    <img align="center" alt="JAVA" height="45" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="max-width: 100%;">
     <img align="center" alt="Laravel" height="45" width="45" src="https://avatars.githubusercontent.com/u/958072?s=48&v=4">
 </div>
 <br>
