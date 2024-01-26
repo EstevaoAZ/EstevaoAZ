@@ -1,7 +1,13 @@
 
 ###  Welcome!
 
-<h2> I'm Estevão! (͡ ͡° ͜ つ ͡͡°)</h2>
+<h2> Estevão Azevedo - Back-end developer(͡ ͡° ͜ つ ͡͡°)</h2>
+<div>
+  <p>
+    Passionate for programming, music and mechanical keyboards.
+    21 yo
+  </p>
+</div>
 <div>
   <a href="https://github.com/estevaoaz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
