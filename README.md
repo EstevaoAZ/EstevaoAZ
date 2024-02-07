@@ -15,4 +15,4 @@
     <img align="center" alt="PostgreSQL" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
 </div>
 <br>
-<a  href="https://www.linkedin.com/in/estev%C3%A3o-azevedo-715a91221/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
+<a href="https://www.linkedin.com/in/estev%C3%A3o-azevedo-715a91221/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
