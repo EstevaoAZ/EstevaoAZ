@@ -2,7 +2,7 @@
 ###  Welcome!
 
   <a href="https://github.com/estevaoaz">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=light"/>
   </a>
 </div>
 <br>
