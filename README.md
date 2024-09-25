@@ -3,7 +3,6 @@
 	<h1>Welcome!</h1>
 	<br>
 	<h3>Hey! I'm Estevão, a Full-Stack developer from Brazil!</h3>
-	<br>
 	<h3>Feel free to contact me and contribute to any of my stuff!</h3>
 	<br>
 	<a href="https://github.com/estevaoaz">
