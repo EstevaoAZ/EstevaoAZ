@@ -1,6 +1,9 @@
 <div align="center">
+	<br>
 	<h1>Welcome!</h1>
+	<br>
 	<p>Hey! I'm Estevão, a Full-Stack developer from Brazil! Feel free to contact me and contribute to any of my stuff!</p>
+	<br>
 	<a href="https://github.com/estevaoaz">
 		<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
 	</a>
