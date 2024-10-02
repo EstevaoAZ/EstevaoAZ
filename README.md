@@ -5,9 +5,6 @@
 	<h3>Hey! I'm Estevão, a Full-stack developer from Brazil!</h3>
 	<h3>Feel free to contact me and contribute to any of my stuff!</h3>
 	<br>
-	<a href="https://github.com/estevaoaz">
-		<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&langs_count=7&theme=dark"/>
-	</a>
 </div>
 <br>
 <br>
