@@ -12,7 +12,9 @@
 <br>
 <br>
 <div align="center">
-	[![My Skills](https://skillicons.dev/icons?i=laravel,mysql,react,docker)](https://skillicons.dev)
+	<a href="https://skillicons.dev">
+    		<img src="https://skillicons.dev/icons?i=laravel,mysql,react,docker,git" />
+  	</a>
 </div>
 <br>
 <div align="center">
