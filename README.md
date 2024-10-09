@@ -2,7 +2,7 @@
 	<br>
 	<h1>Welcome!</h1>
 	<br>
-	<p>Full-stack developer, keyboard enthusiast, and guitar aficionado. Let's build something awesome together.</p>
+	<p>What I'm currently working on:</p>
 </div>
 <br>
 <br>
