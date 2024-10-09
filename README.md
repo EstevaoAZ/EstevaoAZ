@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 	<a href="https://skillicons.dev">
-    		<img src="https://skillicons.dev/icons?i=laravel,mysql,react,docker,git" />
+    		<img src="https://skillicons.dev/icons?i=laravel,react,mysql,docker,git" />
   	</a>
 </div>
 <br>
