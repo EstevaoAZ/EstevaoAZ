@@ -2,8 +2,7 @@
 	<br>
 	<h1>Welcome!</h1>
 	<br>
-	<h3>Hey! I'm Estevão, a Full-stack developer from Brazil!</h3>
-	<h3>Feel free to contact me and contribute to any of my stuff!</h3>
+	<h3>My specialities:</h3>
 </div>
 <br>
 <br>
