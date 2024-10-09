@@ -2,7 +2,7 @@
 	<br>
 	<h1>Welcome!</h1>
 	<br>
-	<h3>My specialities:</h3>
+	<p>Full-stack developer, keyboard enthusiast, and guitar aficionado. Let's build something awesome together.</p>
 </div>
 <br>
 <br>
