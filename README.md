@@ -5,7 +5,6 @@
 	<p>What I'm currently working on:</p>
 </div>
 <br>
-<br>
 <div align="center">
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=laravel,mysql,react,docker,git" />
