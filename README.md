@@ -2,7 +2,7 @@
 	<br>
 	<h1>Welcome!</h1>
 	<br>
-	<p>What I'm currently working on:</p>
+	<p>What I currently working with:</p>
 </div>
 <br>
 <div align="center">
