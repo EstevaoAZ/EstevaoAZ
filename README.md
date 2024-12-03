@@ -1,8 +1,10 @@
 <div align="center">
 	<br>
-	<h1>Welcome!</h1>
+	<h1>👋 Welcome!</h1>
 	<br>
-	<p>🌱 I'm mainly a web dev. I love graphic design and creating beautiful user interfaces. I'm a design enthusiast myself, but with an appreciation for the server-side too!</p>
+	<p>🌱 I'm mainly a web dev.</p>
+	<p>🖼️ I love graphic design and creating beautiful user interfaces.</p> 
+	<p>🎨 I'm a design enthusiast myself, but with an appreciation for the server-side too!</p>
 	<br>
 	<p>👨‍💻 A brief of what I currently work with:</p>
 </div>
