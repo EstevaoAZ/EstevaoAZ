@@ -1,12 +1,11 @@
 <div align="center">
 	<br>
-	<h1>👋 Welcome!</h1>
+	<h1>👋 Welcome to my GitHub!</h1>
 	<br>
-	<p>🌱 I'm mainly a web dev.</p>
-	<p>🖼️ I love graphic design and creating beautiful user interfaces.</p> 
+	<p align="center">👨‍💻 Hi, I'm Estevão! A passionate web developer from Brazil with a knack for clean code and elegant designs. When I'm not coding, you might find me jamming to metal, exploring longboarding spots, or tweaking my guitars. 🎸</p>
 	<p>🎨 I'm a design enthusiast myself, but with an appreciation for the server-side too!</p>
 	<br>
-	<p>👨‍💻 A brief of what I currently work with:</p>
+	<p>⚙️ A brief of what I currently work with:</p>
 </div>
 <br>
 <div align="center">
