@@ -14,7 +14,6 @@
   	</a>
 </div>
 <div align="center">
-	<h2 align="center">📊 My Stats</h2>
 	<div>
 		<div>
 	    		<img src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=radical"/>
