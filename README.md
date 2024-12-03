@@ -15,7 +15,6 @@
 	<br>
 	<p>⚙️ A brief of what I currently work with:</p>
 </div>
-<br>
 <div align="center">
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=laravel,react,mysql,docker,git" />
