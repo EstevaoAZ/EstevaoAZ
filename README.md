@@ -5,6 +5,13 @@
 	<p align="center">👨‍💻 Hi, I'm Estevão! A passionate web developer from Brazil with a knack for clean code and elegant designs. When I'm not coding, you might find me jamming to metal, exploring longboarding spots, or tweaking my guitars. 🎸</p>
 	<p>🎨 I'm a design enthusiast myself, but with an appreciation for the server-side too!</p>
 	<br>
+	<div align="center">
+		<div>
+			<div>
+		    		<img src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=radical"/>
+			</div>
+		</div>
+	</div>
 	<p>⚙️ A brief of what I currently work with:</p>
 </div>
 <br>
@@ -14,13 +21,6 @@
   	</a>
 </div>
 <br>
-<div align="center">
-	<div>
-		<div>
-	    		<img src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=radical"/>
-		</div>
-	</div>
-</div>
 <br>
 <div align="center">
 	<p>📕 Don't hesitate to contact me!</p>
