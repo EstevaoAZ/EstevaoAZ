@@ -1,11 +1,11 @@
 <div align="center">
-	<br>
-	<h1>👋 Welcome to my GitHub!</h1>
-	<br>
+	<img src="GIF/Earth.gif" width="24px"/>
+	&lt;Welcome to my GitHub/&gt;!
+	<img src="GIF/Hi.gif" width="40px" />
 	<p align="center">👨‍💻 Hi, I'm Estevão! A passionate web developer from Brazil with a knack for clean code and elegant designs. When I'm not coding, you might find me jamming to metal, exploring longboarding spots, or tweaking my guitars. 🎸</p>
 	<p>🎨 I'm a design enthusiast myself, but with an appreciation for the server-side too!</p>
 	<br>
-	<div align="center">
+<div align="center">
 		<div>
 			<div>
 		    		<img src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=radical"/>
