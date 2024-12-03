@@ -12,6 +12,7 @@
 			</div>
 		</div>
 	</div>
+	<br>
 	<p>⚙️ A brief of what I currently work with:</p>
 </div>
 <br>
