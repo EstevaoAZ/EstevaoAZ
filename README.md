@@ -13,6 +13,8 @@
     		<img src="https://skillicons.dev/icons?i=laravel,react,mysql,docker,git" />
   	</a>
 </div>
+<br>
+<hr>
 <div align="center">
 	<div>
 		<div>
