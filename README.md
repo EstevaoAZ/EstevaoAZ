@@ -3,8 +3,7 @@
 	<h1>Welcome!</h1>
 	<br>
 	<p>🌱 I'm mainly a web dev. I love graphic design and making beautiful user interfaces. I'm a design enthusiast myself, but with an appreciation for the server-side too!</p>
-	<p>What I currently work with:</p>
-	<br>
+	<p>A brief of what I currently work with:</p>
 </div>
 <br>
 <div align="center">
