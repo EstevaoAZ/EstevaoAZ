@@ -1,7 +1,5 @@
 <div align="center">
-	<img src="GIF/Earth.gif" width="24px"/>
-	&lt;Welcome to my GitHub/&gt;!
-	<img src="GIF/Hi.gif" width="40px" />
+	<h1>👋 Welcome to my GitHub!</h1>
 	<p align="center">👨‍💻 Hi, I'm Estevão! A passionate web developer from Brazil with a knack for clean code and elegant designs. When I'm not coding, you might find me jamming to metal, exploring longboarding spots, or tweaking my guitars. 🎸</p>
 	<p>🎨 I'm a design enthusiast myself, but with an appreciation for the server-side too!</p>
 	<br>
