@@ -11,7 +11,7 @@
 		</div>
 	</div>
 	<br>
-	<p>⚙️ A brief of what I currently work with:</p>
+	<p>⚙️ A summary of the technologies I work with:</p>
 </div>
 <div align="center">
 	<a href="https://skillicons.dev">
