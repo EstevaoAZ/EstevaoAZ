@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>👋 Welcome to my GitHub!</h1>
-	<p align="center">👨‍💻 Hi, I'm Estevão! A passionate web developer from Brazil with a flair for clean code and elegant designs. When I'm not crafting sleek websites, I'm either tuning my guitars, or geeking out over retro handheld consoles—because nothing beats a little 8-bit nostalgia to recharge the creative mind! 🕹️</p>
+	<p align="center">👨‍💻 Hey, I'm Estevão! I'm a web dev from Brazil who’s all about clean code and making websites look good. When I'm not working, I'm either playing guitar or diving into some retro handheld consoles—because who doesn’t love a little 8-bit nostalgia to get the creative juices flowing? 🕹️</p>
 	<br>
 <div align="center">
 		<div>
