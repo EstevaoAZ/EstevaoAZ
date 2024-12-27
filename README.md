@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>👋 Welcome to my GitHub!</h1>
-	<p align="center">👨‍💻 Hey, I'm Estevão! I'm a web dev from Brazil who’s all about clean code and making websites look good. When I'm not working, I'm either playing guitar or diving into some retro handheld consoles—because who doesn’t love a little 8-bit nostalgia to get the creative juices flowing? 🕹️</p>
+	<p align="center">👨‍💻 Hey, I'm Estevão! I'm a web dev from Brazil who’s all about clean code and making websites look good. When I'm not working, I'm either playing guitar or messing with some retro handheld consoles. 🕹️</p>
 	<br>
 <div align="center">
 		<div>
