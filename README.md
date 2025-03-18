@@ -18,8 +18,8 @@
 	<br>
 	<h2>🔧 Notable Projects</h2>
 	<ul>
-		<li><a href="https://github.com/EstevaoAZ/calculator">Project 1</a>: An iOS themed calculator made with React.js.</li>
-		<li><a href="https://github.com/EstevaoAZ/project2">Project 2</a>:My Node.js API.</li>
+		<li><a href="https://github.com/EstevaoAZ/calculator">Super Calculator</a>: An iOS themed calculator made with React.js.</li>
+		<li><a href="https://github.com/EstevaoAZ/project2">API</a>: My Node.js API.</li>
 	</ul>
 	<br>
 	<h2>📫 How to Reach Me</h2>
