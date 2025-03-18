@@ -2,9 +2,9 @@
 	<h1>👋 Welcome to my GitHub!</h1>
 	<p align="center">👨‍💻 Hey, I'm Estevão! I'm a web developer from Brazil who’s all about clean code and making websites look good. When I'm not working, I'm either riding my Penny board or messing with retro handheld consoles 🕹.</p>
 	<br>
-	<div align="center">
+<!-- 	<div align="center">
 		<img src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=radical"/>
-	</div>
+	</div> -->
 	<div align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&theme=radical"/>
 	</div>
