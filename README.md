@@ -6,7 +6,7 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=estevaoaz&show_icons=true&theme=radical"/>
 	</div> -->
 	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&layout=compact&theme=radical"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoaz&theme=radical"/>
 	</div>
 	<br>
 	<h2>⚙️ Technologies & Tools</h2>
