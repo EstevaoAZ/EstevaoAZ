@@ -33,6 +33,6 @@
   <br>
   <h2>About Me</h2>
   <p align="center">
-    Outside of coding, I enjoy skateboarding and playing electric guitar. I'm always eager to learn something new—whether it’s a programming language or a challenging guitar solo.
+    Outside of coding, I enjoy skateboarding and playing electric guitar. I'm always eager to learn something new, whether it’s a programming language or a challenging guitar solo.
   </p>
 </div>
