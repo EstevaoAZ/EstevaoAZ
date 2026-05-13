@@ -11,7 +11,7 @@
   <h2>Technologies & Tools</h2>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,react,mysql,docker,git,js,ts,nodejs,html,css" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,ts,mysql,docker,git" />
     </a>
   </div>
   <br>
